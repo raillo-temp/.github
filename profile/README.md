@@ -13,9 +13,9 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Ogu1208">김민아</a></td></td>
+      <td align="center"><a href="https://github.com/Ogu1208">김민아</a></td>
       <td align="center"><a href="https://github.com/Jimin730">신지민</a></td>
-      <td align="center"><a href="https://github.com/chanwonlee">이찬원</a></td>d>
+      <td align="center"><a href="https://github.com/chanwonlee">이찬원</a></td>
     </tr>
   </tbody>
 </table>
